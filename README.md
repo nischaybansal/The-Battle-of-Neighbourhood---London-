@@ -29,9 +29,15 @@ About this file
 lsoa_code: code for Lower Super Output Area in Greater London.
 
 borough: Common name for London borough.
+
 major_category: High level categorization of crime
+
 minor_category: Low level categorization of crime within major category.
+
 value: monthly reported count of categorical crime in given borough
+
 year: Year of reported counts, 2008-2016
+
 month: Month of reported counts, 1-12
+
 Data set URL: https://www.kaggle.com/jboysen/london-crime
